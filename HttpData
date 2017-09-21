@@ -1,0 +1,1 @@
+{"date":"2017-09-16 19:13:34","http_result_array":[{"status":1,"method":"GET","uri":"http:\/\/conf.api.hk.goforandroid.com\/api\/v4\/configurations","response_time":86,"status_code":200,"response_body_size":0},{"status":1,"method":"GET","uri":"http:\/\/version.api.goforandroid.com\/api\/v3\/product\/versions","response_time":859,"status_code":200}]}
